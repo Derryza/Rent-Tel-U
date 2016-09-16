@@ -18,6 +18,18 @@
         android:textSize="50dp"
         android:textStyle="italic"
         android:text="Hello World :)"
+        android:id="@+id/satu"
+        />
+        
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="#252525"
+        android:textSize="50dp"
+        android:textStyle="italic"
+        android:text="Hai Trio Koplo"
+        android:layout_below="@+id/satu"
         />
 
     <RelativeLayout
