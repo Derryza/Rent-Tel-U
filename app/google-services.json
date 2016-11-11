@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "520704154897",
+    "firebase_url": "https://rent-tel-u-bd45a.firebaseio.com",
+    "project_id": "rent-tel-u-bd45a",
+    "storage_bucket": "rent-tel-u-bd45a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520704154897:android:dda8e2e0f7bf5367",
+        "android_client_info": {
+          "package_name": "com.example.user.baldwinpushgithub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520704154897-kcra6grhqvsfasrmvlhsirtj703g8dlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.baldwinpushgithub",
+            "certificate_hash": "0F4EE1C06C12DD52195C4461CCB5DAB42CF015C1"
+          }
+        },
+        {
+          "client_id": "520704154897-65sgqc5v6o8nln5g0276cblkvdg22m5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBweVno5ag3Q56uqRdutl7_zLx-WXNZpl8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520704154897-65sgqc5v6o8nln5g0276cblkvdg22m5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

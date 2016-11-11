@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_c70ac3a37852e5bb119023d6193df78544a76d34.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_8b65c130756bc62d5b755c7583e7ba145c3e1f13.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_378e8bcede170175b69ded5d0d1d89e697985bcb.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_09602b982a260cc0d0e5fab55098e16289672291.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_e3560574d36036a7271e756c1a8bc714e896b611.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_c72f173cf4359d9470355ecbd48a478868a8eda6.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_d96cee8a9d4d3fc621630ce4eff8a37c63de9f87.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_a44a92b608631cae5d960f0b79ff26b04c33c18b.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_1da7fb1ccf3364b7e9fe017b4fb5e6fab17fc1d6.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_092a13a649dd46c453493a66e7d5f8b4041e041d.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_cd713012cb4ffbb13c2ca003c73fbc06acbda971.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.8.0_b98a9a47a7e629c0ed81961380987091234bb2c5.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5d0094f429c8e0e52a2d3cae77ba875e85d7336c.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_8158305dd191a5231db286cddf826cbe7925fbc7.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_74843702c153a5a536aa4e4e5ff2d39396271210.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_420bdfce024568170a9fbb1a966479f6df20d0d8.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f191affd992f011554b32fce5d303c9b3dc89d34.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_957498df5f94efb66cbcc3ab62d3eb7ba14dacb5.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_fa349529e1a5302ff40687153d2c8fa689b126da.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_49ddd57d9ac1f240b8f520b9cce8a07891d57538.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_b79a5735da6a8fa40c4edc42f7ad5755db96ef21.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_ba4c02b791dce9021bc165c85f2a886dd5138746.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.8.0_2397e8ac8c47bd6930d0a8f14a80f0fddccd9580.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_8279b6bf7f7c677f9bdde54097b18ae9676a57c5.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_ca58216c45fdb8802f4e9c6fa9d64da6a3c72226.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_2f8012e9c636effb01555dfec5779653fcdd79b2.jar" />
+    </item>
+    <item
+        jar="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="F:\TUBES\TUBES\38-mobpro-trio-koplo\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_b895c6c50ee2ec95e021125fa74c3b4f24b2576f.jar" />
+    </item>
+
+</items>
